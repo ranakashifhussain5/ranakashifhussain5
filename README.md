@@ -34,7 +34,7 @@
 ---
 
 ### 📌 Featured Projects
-- [COVID-19 Tracker App](https://github.com/YourGitHubUsername/covid19-tracker) — Live COVID stats with Flutter + API  
+- [COVID-19 Tracker App](https://github.com/ranakashifhussain5/Cavid-19-Tracker-App-.git) — Live COVID stats with Flutter + API  
 
 ---
 
