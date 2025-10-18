@@ -2,11 +2,13 @@
 <h3 align="center">Flutter & Laravel Developer | API Specialist | Problem Solver</h3>
 
 ---
+
 ### 🚀 About Me
-- 💻 I build **Flutter** apps with **REST APIs** using **Laravel**, **PHP**, **SQL** 
-- 🛠 Love solving real-world problems with clean and efficient code  
-- 🌱 Currently learning **Advanced Flutter**, **Backend APIs**
-- 📫 Reach me at: **ranakashifhussain@example.com**  
+- 💻 I build **Flutter** apps integrated with **Laravel REST APIs**  
+- ⚙️ Skilled in **Flutter**, **Laravel**, **PHP**, **SQL**, and **Firebase**  
+- 🌱 Currently learning **Advanced Flutter**, **Backend Optimization**, and **Cloud Integration**  
+- 🧠 Passionate about **AI-powered mobile applications** and **real-world solutions**  
+- 📫 Reach me at: **ranakashifhussain5@gmail.com**
 
 ---
 
@@ -25,32 +27,34 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranakashifhussain5&show_icons=true&theme=tokyonight" alt="Kashif's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranakashifhussain5&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 📌 Featured Projects
 - [COVID-19 Tracker App](https://github.com/ranakashifhussain5/Cavid-19-Tracker-App-.git) — Live COVID stats with Flutter + API  
+- [Google Map Clone](https://github.com/ranakashifhussain5/GoogleMapClone) — Custom map markers, live location & directions  
+- [Student Management System (Flutter + Laravel)](https://github.com/ranakashifhussain5) — CRUD & REST API-based mobile app  
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/rana-kashif-hussain-392a4036b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ranakashifhussain@example.com">
+  <a href="mailto:ranakashifhussain5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/ranakashifhussain5">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ **"Code is like humor. When you have to explain it, it’s bad."**
+⭐ *"Code is like humor — when you have to explain it, it’s bad."*
