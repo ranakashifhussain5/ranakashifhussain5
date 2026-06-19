@@ -4,10 +4,10 @@
 ---
 
 ### 🚀 About Me
-- 💻 I build **Flutter** apps integrated with **Laravel REST APIs**  
-- ⚙️ Skilled in **Flutter**, **Laravel**, **PHP**, **SQL**, and **Firebase**  
-- 🌱 Currently learning **Advanced Flutter**, **Backend Optimization**, and **Cloud Integration**  
-- 🧠 Passionate about **AI-powered mobile applications** and **real-world solutions**  
+- 💻 I build **Flutter** apps integrated with **Laravel REST APIs**
+- ⚙️ Skilled in **Flutter**, **Laravel**, **PHP**, **SQL**, and **Firebase**
+- 🌱 Currently learning **Advanced Flutter**, **Backend Optimization**, and **Cloud Integration**
+- 🧠 Passionate about **AI-powered mobile applications** and **real-world solutions**
 - 📫 Reach me at: **ranakashifhussain5@gmail.com**
 
 ---
@@ -27,34 +27,47 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranakashifhussain5&show_icons=true&theme=tokyonight" alt="Kashif's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranakashifhussain5&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranakashifhussain5&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranakashifhussain5&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
-- [COVID-19 Tracker App](https://github.com/ranakashifhussain5/Cavid-19-Tracker-App-.git) — Live COVID stats with Flutter + API  
-- [Google Map Clone](https://github.com/ranakashifhussain5/GoogleMapClone) — Custom map markers, live location & directions  
-- [Student Management System (Flutter + Laravel)](https://github.com/ranakashifhussain5) — CRUD & REST API-based mobile app  
+
+- [COVID-19 Tracker App](https://github.com/ranakashifhussain5/Cavid-19-Tracker-App-.git)
+- [Google Map Clone](https://github.com/ranakashifhussain5/GoogleMapClone)
+- [AI Assignment Checker App](https://github.com/ranakashifhussain5/ai-assignment-checker-app)
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/rana-kashif-hussain-392a4036b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ranakashifhussain5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ranakashifhussain5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 🤖 AI Assignment Checker Project
+
+**AI-based Online Assignment Checker | Baba Guru Nanak University**
+
+- Designed an **NLP-powered grading pipeline** for grammar, originality & conceptual accuracy
+- Built **Flutter dual-panel app (student + teacher)**
+- Integrated **Laravel/Firebase backend APIs**
+- Implemented **secure AES encryption for student data**
+- Reduced grading time from **days → seconds**
 
 ---
 
-⭐ *"Code is like humor — when you have to explain it, it’s bad."*
+### 📦 APK / Download
+
+👉 Latest Android APK:
+
+🔗 [Download APK](https://github.com/ranakashifhussain5/ai-assignment-checker-app/releases)
+
+⚠️ Enable “Install from unknown sources” on Android
+
+---
+
+### 🔧 Build APK Locally
+
+```bash
+flutter pub get
+flutter build apk --release
