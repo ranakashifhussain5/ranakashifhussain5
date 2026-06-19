@@ -44,28 +44,6 @@
 
 ---
 
-### 🤖 AI Assignment Checker Project
-
-**AI-based Online Assignment Checker | Baba Guru Nanak University**
-
-- Designed an **NLP-powered grading pipeline** for grammar, originality & conceptual accuracy
-- Built **Flutter dual-panel app (student + teacher)**
-- Integrated **Laravel/Firebase backend APIs**
-- Implemented **secure AES encryption for student data**
-- Reduced grading time from **days → seconds**
-
----
-
-### 📦 APK / Download
-
-👉 Latest Android APK:
-
-🔗 [Download APK](https://github.com/ranakashifhussain5/ai-assignment-checker-app/releases)
-
-⚠️ Enable “Install from unknown sources” on Android
-
----
-
 ### 🔧 Build APK Locally
 
 ```bash
